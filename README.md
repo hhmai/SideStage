@@ -1,2 +1,2 @@
 # SideStage
-Social Media App
+A Social Media App
